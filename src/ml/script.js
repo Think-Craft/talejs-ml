@@ -1,4 +1,5 @@
-console.log('Hello TensorFlow');
+import * as tf from '@tensorflow/tfjs';
+
 /**
  * Get the car data reduced to just the variables we are interested
  * and cleaned of missing data.
@@ -21,6 +22,8 @@ function createModel() {
 
   // Add a single hidden layer
   model.add(tf.layers.dense({ inputShape: [1], units: 1, useBias: true }));
+  // Add a second hidden layer
+  model.add(tf.layers.dense({units: 50, activation: 'sigmoid'}));
 
   // Add an output layer
   model.add(tf.layers.dense({ units: 1, useBias: true }));
