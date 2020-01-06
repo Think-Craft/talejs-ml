@@ -4,4 +4,4 @@ A website that generates tales from various authors with neural network technolo
 
 Usage
 ---
-`./start` to run the website local.
+`python3 -m http.server` to run the website local.
