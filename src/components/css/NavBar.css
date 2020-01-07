@@ -3,7 +3,7 @@
     z-index: 10;
     top:0;
     width:100%;
-    background-color: #00796b;
+    background-color: #263238;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 .NavBarMenu{
@@ -19,7 +19,7 @@
     padding-block:18px;  
 }
 .NavBarMenu li:hover{
-    background-color: #004c40;
+    background-color: #000a12;
     cursor:pointer;
 }
 .NavBarMenu a{
