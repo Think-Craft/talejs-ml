@@ -5,8 +5,8 @@ import {Link} from 'react-router-dom';
 export default class NavBar extends Component {
     render() {
         return (
-            <div class="NavBar">
-                <ul class="NavBarMenu">
+            <div className="NavBar">
+                <ul className="NavBarMenu">
                     <Link to="/">
                     <li>Home</li>
                     </Link>
@@ -15,6 +15,9 @@ export default class NavBar extends Component {
                     </Link>
                     <Link to="/about">
                     <li>About</li>
+                    </Link>
+                    <Link to="/text-generator">
+                    <li>TextGenerator</li>
                     </Link>
                 </ul>
             </div>
