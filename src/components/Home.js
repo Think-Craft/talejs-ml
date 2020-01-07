@@ -13,7 +13,7 @@ export default class Home extends Component {
                 <p></p>
                 <div className="generation-panel">
                     <h2 className="generation-panel-title">
-                        Lastest generations
+                        Lastest generations...
                     </h2>
                     <div className="generations-wrapper">
                         <div className="generation">
@@ -30,7 +30,7 @@ export default class Home extends Component {
                         </div>
                         <div class="generation">
                             <h3>
-                                The unnamed thing
+                                The Unnamed Thing...
                             </h3>
                             <h5>
                                 <i>Written By: H.P Robotcraft</i>

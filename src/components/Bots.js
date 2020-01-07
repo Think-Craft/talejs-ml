@@ -4,7 +4,7 @@ export default class Bots extends Component {
     render() {
         return (
             <div class="view">
-                <h1>Our bots</h1>
+                <h1>Our bots...</h1>
                 <p></p>
                 <h2>Poebot</h2>
                 <p>

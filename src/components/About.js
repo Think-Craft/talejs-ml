@@ -5,7 +5,7 @@ export default class About extends Component {
     render() {
         return (
             <div class="view">
-                <h1>About us</h1>
+                <h1>About us...</h1>
                 <div class="about-section">
                      <img  src={Logo} class="CompanyLogo" alt="Company Logo..."/>
                     <p>
