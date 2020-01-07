@@ -58,10 +58,14 @@ body{
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   overflow: hidden;
 }
-.generation-panel h1, h2, h3, h4, h5{
+.generation-panel h1, h2, h3, h4, h5, p{
   font-weight: lighter;
 }
+h1, h2 {
+  font-family: 'Press Start 2P', cursive;
+}
 .generation-panel-title{
+  font-family: 'Press Start 2P', cursive;
   padding:10px;
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
