@@ -16,7 +16,6 @@ export default class NavBar extends Component {
     }
     sidemenutrigger = () =>{
         let [sidemenu, overlay] = [this.sidemenu.current.style, this.overlay.current.style]
-        console.log(sidemenu,overlay);
         if(!this.state.sidemenutriggered){
             sidemenu.left = '0px';
             overlay.opacity = '0.8';
