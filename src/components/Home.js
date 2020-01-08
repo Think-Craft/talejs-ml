@@ -17,7 +17,7 @@ export default class Home extends Component {
                 */}
             <div className="view">
             <h1 className="home-title onsmall">Welcome to talejs!</h1>
-                <p></p>
+            <p className="onsmall"></p>
                 <div className="generation-panel">
                     <h2 className="generation-panel-title">
                         Lastest generations...
