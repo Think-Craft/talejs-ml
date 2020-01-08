@@ -26,7 +26,7 @@ export default class NavBar extends Component {
         else{
             sidemenu.left = '-250px';
             overlay.opacity = '0';
-            overlay.display = 'hidden';
+            overlay.display = 'none';
             this.setState({sidemenutriggered:false});
         }
     }
