@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Bots extends Component {
     render() {
         return (
-            <div class="view">
+            <div className="view">
                 <h1>Our bots...</h1>
                 <p></p>
                 <h2>Poebot</h2>

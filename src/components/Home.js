@@ -35,7 +35,7 @@ export default class Home extends Component {
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor nisi nibh, et pretium urna viverra id. Morbi sem nunc, varius in nulla congue, pulvinar volutpat nibh. In nunc ante, finibus sit amet dignissim sed, malesuada et turpis. Phasellus ac rutrum diam. Quisque a neque accumsan, pulvinar diam eget, pulvinar tortor. Sed blandit ligula sit amet nisl placerat, non commodo ex suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eget tellus non nulla...
                             </p>
                         </div>
-                        <div class="generation">
+                        <div className="generation">
                             <h3>
                                 The Unnamed Thing...
                             </h3>
