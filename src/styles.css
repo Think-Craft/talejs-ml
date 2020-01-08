@@ -12,7 +12,8 @@ http://jsfiddle.net/ayhj9vb0/ for blur effect
   font-family: 'Roboto', sans-serif;
 }
 body{
-  background-color: #6d6d6d;
+  background-color: #1a1a1a;
+  color: #ffffff;
 }
 .view{
   margin:15px;
