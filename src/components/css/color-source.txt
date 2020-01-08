@@ -1,2 +1,11 @@
 Google's color tool chosen color:
 https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=263238&secondary.color=424242
+.home-screen{
+  position:relative;
+  display:flex !important;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  overflow:hidden;
+  padding:10px;
+}

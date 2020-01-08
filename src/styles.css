@@ -1,3 +1,10 @@
+/*thanks to:
+https://leaverou.github.io/css3patterns/# for the stars pattern
+https://cssgradient.io/ for making easy gradients
+https://codepen.io/sdthornton/pen/wBZdXq for material box-shadows
+http://jsfiddle.net/ayhj9vb0/ for blur effect
+*/
+
 *{
   margin:0;
   padding:0;
@@ -77,9 +84,78 @@ h1, h2 {
   max-height: 80vh;
   overflow-y: scroll;
 }
+.home-screen{
+  position:relative;
+  display:flex !important;
+  justify-content: center;
+  align-items: center;
+  overflow:hidden;
+  height:50vh;
+  padding:10px;
+  width:100%;
+  background: linear-gradient(0deg, rgba(38,50,56,1) 0%, rgba(0,10,18,1) 56%);
+  box-shadow: inset 0 0px 38px rgba(0,0,0,0.5), inset 0 0px 12px rgba(0,0,0,0.5);
+}
+.home-stars{
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  z-index:0;
+  position:absolute;
+  width:inherit;
+  height:inherit;
+  background-image:
+  radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+  radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  animation-name: star-animation;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  transition: opacity 0.1s;
+}
+@keyframes star-animation {
+  10%{
+    opacity:1;
+  }
+  15%{
+    opacity:0.8;
+  }
+  25%{
+    opacity:1;
+  }
+  30%{
+    opacity:0.8;
+  }
+  35%{
+    opacity:1;
+  }
+}
+.home-title{
+  position:absolute;
+  color:white;
+  font-size: large;
+  opacity:0.8;
+  text-shadow: -4px 3px 0px rgba(0,0,0,0.25);
+  z-index:2;
+}
+.raven-drawing{
+  max-width: 50vw;
+  max-height:50vh;
+  min-width:45vh;
+  height:auto;
+  position: absolute;
+  left:-5vw;
+  z-index:1;
+  bottom:-10vh;
+}
 @media (max-width:800px) {
   .onbig{
-    display:none;
+    display:none !important;
   }
   .onsmall{
     display:initial;
@@ -90,6 +166,11 @@ h1, h2 {
   }
   .about-section{
     margin:0 !important;
+  }
+  .home-title{
+    position:initial;
+    color:black;
+    text-shadow: none;
   }
 }
 @media (min-width:800px) {

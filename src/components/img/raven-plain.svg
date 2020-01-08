@@ -1,0 +1,56 @@
+<svg
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   height="1080px"
+   width="1920px">
+  <g
+     style="opacity:1"
+     id="layer1">
+    <path
+       transform="translate(-3.2529915,3.1153681)"
+       d="M 1371.8516,36.984375 958.16211,133.92578 496.0625,201.36328 267.21094,719.7832 -58.458984,1019.0332 438.84961,1339.3594 883.3457,1280.3516 914.15234,985.31641 993.36914,622.8418 1054.9824,466.89453 C 1164.6697,379.93045 1175.9226,359.17769 1459.8711,155 l 39.6094,-54.79297 74.8144,-21.074218 z"
+       id="path5086"
+       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xlink:href="#path5074" />
+    <path
+       id="path5074"
+       d="M -53.522532,1033.8431 272.14824,734.59228 500.99796,216.17174 963.09838,148.73491 1376.7882,51.794478 l 202.444,42.14801 -74.8163,21.074012 -39.6086,54.79241 c -283.9485,204.17769 -295.2006,224.93122 -404.8879,311.8953 l -61.6134,155.94763 -79.21717,362.47296 -30.80671,295.036 -444.49659,59.0072"
+       style="fill:#1a1a1a;fill-rule:nonzero;stroke:#000000;stroke-width:1.28997934;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer2">
+    <path
+       id="path5091"
+       d="m 625.89499,330.67175 c 0,0 4.86663,42.0737 108.24028,37.71692 19.89767,-19.05604 42.78446,-46.70003 62.68211,-65.75605 -11.86433,-19.26279 -43.31706,-30.58109 -104.0031,-38.24092 -7.11562,-2.0444 -44.67199,27.60332 -66.91929,66.28005 z"
+       style="fill:#666666;stroke:#000000;stroke-width:1.28997934px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer3">
+    <path
+       id="path5102"
+       d="m 691.60137,268.04169 c 16.76364,2.91351 35.46505,4.84022 51.2176,7.71887 15.83218,2.89319 28.6217,6.83378 33.40311,13.3458 5.7458,7.8254 11.70164,14.19052 9.38549,17.89747 -2.69213,4.30865 -7.48557,10.35759 -10.61029,12.189 -3.12468,1.83143 -8.57551,1.2823 -12.24657,-3.4409 -4.3534,-5.60105 -7.17047,-6.54275 -20.50298,-10.49856 -16.55613,-0.0604 -29.17542,-0.46864 -47.61936,3.50126 -18.16078,3.90889 -21.14653,6.84279 -46.95001,28.75835 0,0 -18.76655,0.97654 -15.96,-8.4045 2.87147,-9.59807 15.48833,-26.12387 23.55499,-34.11516 16.01315,-15.86356 36.02809,-26.78813 36.32802,-26.95163 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24489939px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     id="layer4">
+    <path
+       id="path5111"
+       d="m 883.63294,361.61062 79.46544,-212.87571 413.68982,-96.940432 199.1912,45.264249 -71.5635,17.957773 -39.6086,54.79241 -345.5274,263.68536 -174.03072,-35.47405 z"
+       style="fill:#333333;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer6">
+    <path
+       id="path5119"
+       d="M -53.522532,1033.8431 389.30263,743.9114 845.82297,757.91509 919.08883,1000.1248 885.02826,1298.2756 443.78553,1354.168 263.10157,1242.9976 Z"
+       style="fill:#333333;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer5">
+    <path
+       id="path5116"
+       d="M 1501.163,118.13099 1369.561,145.95377 883.63294,361.61062 1369.561,152.95562 Z"
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
