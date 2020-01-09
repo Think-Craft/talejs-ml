@@ -5,7 +5,7 @@ Try out the website at [https://talejs.herokuapp.com](https://talejs.herokuapp.c
 
 Usage
 ---
-For development purposes you can 
+For development purposes you can  
 `npm install` to install all the dependencies for the project.  
 `npm run dev` to host locally.
 
